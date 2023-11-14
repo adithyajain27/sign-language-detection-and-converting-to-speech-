@@ -17,4 +17,4 @@ use **inference_classifier.py** for detecting the hand signal and converting it 
 ![inference classification](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/images/classification_of_signal.png)
 
 
-* *this project is the combined effort of* * * [@adithya jain](https://github.com/adithyajain27) * [@chethesh b l]() * [@nandini]()
+* *this project is the combined effort of* * *[@adithya jain](https://github.com/adithyajain27) *[@chethesh b l]() *[@nandini]()
