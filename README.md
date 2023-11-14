@@ -5,10 +5,10 @@
 use **image_collection.py** for collecting the data set by using web camera. there you can set the classes, and delay time and number of image for a class and many more  OR you can use the data i provided 
 
 ## [create_dataset](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/create_dataset.py)
-use **create_dataset.py** for creating the data set b collected imageges. you can change the dataset name also
+use **create_dataset.py** for creating the data set of collected imageges. you can change the dataset name also
 
 ## [train_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/train_classifier.py)
-use **train_classifier.py** to train the model. here we used RandomForest algorithm for classification 
+use **train_classifier.py** to train the model. here we used #### RandomForest algorithm [use can study here](https://www.javatpoint.com/machine-learning-random-forest-algorithm) for classification  ![this is the diagram for flow representation of randomForest algorithm]()
 
 ## [inference_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/inference_classifier.py)
 use **inference_classifier.py** for detecting the hand signal and converting it to the speech
