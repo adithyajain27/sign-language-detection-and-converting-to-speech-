@@ -7,7 +7,7 @@ use **image_collection.py** for collecting the data set by using web camera. the
 ## [create_dataset](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/create_dataset.py)
 use **create_dataset.py** for creating the data set b collected imageges. you can change the dataset name also
 
-## [train_classifier]( )
+## [train_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/train_classifier.py)
 use **train_classifier.py** to train the model. here we used RandomForest algorithm for classification 
 
 ## [inference_classifier]( )
