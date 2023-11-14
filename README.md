@@ -1,7 +1,7 @@
 # sign-language-detection-and-converting-to-speech-
 
 
-## image_collection
+## [image_collection](
 use **image_collection.py** for collecting the data set by using web camera. there you can set the classes, and delay time and number of image for a class and many more  OR you can use the data i provided 
 
 ## create_dataset
