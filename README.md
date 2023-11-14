@@ -2,7 +2,7 @@
 
 
 ## [image_collection](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/image%20collection)
-use **image_collection.py** for collecting the data set by using web camera. there you can set the classes, and delay time and number of image for a class and many more  OR you can use the data i provided 
+use **image_collection.py** for collecting the data set by using web camera. there you can set the classes, and delay time and number of image for a class and many more  OR you can use the data i provided ![image of image collection process](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/images/data_collection.png)
 
 ## [create_dataset](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/create_dataset.py)
 use **create_dataset.py** for creating the data set of collected imageges. you can change the dataset name also
