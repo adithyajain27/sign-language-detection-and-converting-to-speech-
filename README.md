@@ -15,3 +15,6 @@ use **train_classifier.py** to train the model. here we used **[RandomForest alg
 ## [inference_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/inference_classifier.py)
 use **inference_classifier.py** for detecting the hand signal and converting it to the speech  
 ![inference classification](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/images/classification_of_signal.png)
+
+
+**this project is the combined effort of** @https://github.com/adithyajain27
