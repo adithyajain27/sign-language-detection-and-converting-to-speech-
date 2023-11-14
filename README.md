@@ -10,5 +10,5 @@ use **create_dataset.py** for creating the data set b collected imageges. you ca
 ## [train_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/train_classifier.py)
 use **train_classifier.py** to train the model. here we used RandomForest algorithm for classification 
 
-## [inference_classifier]( )
+## [inference_classifier](https://github.com/adithyajain27/sign-language-detection-and-converting-to-speech-/blob/main/inference_classifier.py)
 use **inference_classifier.py** for detecting the hand signal and converting it to the speech
